@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+httpx
+sentence-transformers
+diskcache
+pytest
+networkx
+streamlit-agraph
+beautifulsoup4
